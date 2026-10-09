@@ -201,6 +201,6 @@ show version
 > Kernel panic - not syncing: Out of memory: compulsory panic_on_oom is enabled
 > ```
 >
-> **Result:** The switch automaticly rebooted and loaded the previous image:
+> **Result:** The switch automatically rebooted and loaded the previous image:
 `SONiC-OS-Lite-1.13.0_202405-vs`.
 >**Resolution:** The virtual switch's RAM allocation was increased from 4096 MB to 8192 MB before retrying the upgrade.
