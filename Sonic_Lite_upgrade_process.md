@@ -21,11 +21,11 @@ and a SONiC image in `.bin` format.
 
 ### Topology 1
 
-![Topology 1](images/topology1.png)
+![Topology 1](images/Topology1.png)
 
 ### Topology 2
 
-![Topology 2](images/topology2.png)
+![Topology 2](images/Topology2.png)
 
 ## Upgrade Issues
 
